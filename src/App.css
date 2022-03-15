@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  border:2px solid black;
+}
+
+
+.person{
+  background-color:darkkhaki;
+  border:3px solid rebeccapurple;
+  color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
